@@ -1,0 +1,30 @@
+{
+  "companyId": "company1",
+  "job": {
+    "jobName": "Software Engineer",
+    "jobId": 1001,
+    "isClosed": false
+  },
+  "applicants": [
+    {
+      "applicantId": "app1",
+      "averages": {
+        "gpa": 3.8,
+        "workExperience": 2,
+        "openSourceContributions": 5,
+        "codingLanguageExperience": 3,
+        "technologyExperience": 4
+      }
+    },
+    {
+      "applicantId": "app2",
+      "averages": {
+        "gpa": 3.5,
+        "workExperience": 3,
+        "openSourceContributions": 2,
+        "codingLanguageExperience": 4,
+        "technologyExperience": 3
+      }
+    }
+  ]
+}

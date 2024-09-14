@@ -1,0 +1,9 @@
+{
+  "applicantName": "John Doe",
+  "applicantId": "app1",
+  "gpa": 3.8,
+  "workExperience": 2,
+  "openSourceContributions": 5,
+  "codingLanguageExperience": 3,
+  "technologyExperience": 4
+}
